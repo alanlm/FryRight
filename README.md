@@ -1,5 +1,8 @@
 # FryRight
 
+This repository is to show the UI of a client's project. 
+To respect the wishes of the client, the code is kept private on a separate VCS. 
+
 Login/Registration Activity
 
 <a href="https://imgflip.com/gif/2cn64z"><img src="https://i.imgflip.com/2cn64z.gif" title="made at imgflip.com"/></a>
