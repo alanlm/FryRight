@@ -1,6 +1,7 @@
 # FryRight
 
 This repository is to show the UI of a client's project. 
+
 To respect the wishes of the client, the code is kept private on a separate VCS. 
 
 Login/Registration Activity
